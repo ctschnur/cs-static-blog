@@ -1,0 +1,2 @@
+* Publishing a static blog from a folder with org-mode files
+There are solutions (i.e. ~jekyll~) which allow the generation of a blog for ~github pages~. With this alternative approach, I attempt to minimize the amount of steps from typing a blog article in org-mode to publishing it on a static github pages based static blog. 
